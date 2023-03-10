@@ -1,4 +1,4 @@
-# ReadMe file by Fabian for the recipe app
+# Recipe Application by Fabian Dacic
 
 ## What is working? 
 The base functionalities regarding adding, deleting, updating and viewing the recipes and ingredients although primitive
@@ -32,14 +32,10 @@ An ingredient's name is inserted and then the application returns a list of the 
 ingredient which falls into compliance with the requirements of the application. 
 
 These are just some proofs and the application has been tested in three different devices and in all of them, it 
-functioned. There was a weird occurrence with one of the devices which had a 7th Gen Intel CPU for some reason however 
-for the most part, the application did not crash and tests ran. 
+functioned. There was a weird occurrence with one of the devices for some reason however for the most part, the application did not crash and tests ran. 
 
 ## What is not working? & Usability Issues 
-For the functionalities that are present at the time, they do work, although as mentioned before when the application 
-was run in the device in which had a 7th Gen Intel I5 CPU, it did crash a few times for some reason. It crashed 
-during the addition of the ingredient, updating and deletion of the recipe. Other than that, I did try to make a mostly
-stable application and tried to fix the issues of the previous releases (before it crashed when adding a new ingredient).
+For the functionalities that are present at the time, they do work, although as mentioned before it did crash a few times for some reason. I believe it has mostly hardware related, and it crashed during the addition of the ingredient, updating and deletion of the recipe. Other than that, I did try to make a mostly stable application and tried to fix the issues of the previous releases.
 
 I will now mention areas in which could be improved. For the sake of simplicity, I assigned units an enumeration class 
 which seemed as a good idea considering that the user will choose one of the values in the small set of said units. 
@@ -49,4 +45,4 @@ Another major point would be the restriction in selective choices (when an ingre
 completely). The choice was done so that the app would be simple to use and adding more complex choices would only 
 expand the possibility of errors/bugs. 
 
-In conclusion the application is far from perfect, but I believe it is suitable for a passing grade. 
+In conclusion the application is far from perfect, and there is definitely room for improvement. 
