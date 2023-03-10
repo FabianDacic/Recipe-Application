@@ -1,0 +1,12 @@
+1;milk;Litre;2;1
+2;egg;Piece;4;4
+3;onion;Piece;4;2
+4;salt;Gram;5;1
+5;flowers;No_unit;5;100
+6;test;Litre;11;100
+8;kol;Litre;10;10
+9;banana;Gram;100;20
+10;cheese;Gram;100;50
+10;flour;Litre;500;150
+12;testingcup;Litre;100;1000
+13;test;Gram;100;10
